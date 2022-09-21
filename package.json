@@ -16,7 +16,7 @@
     "vue-draggable": "^2.0.3",
     "vue2-datepicker": "^3.0.2",
     "vuedraggable": "^2.23.2",
-    "vuetify": "^2.1.10"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
